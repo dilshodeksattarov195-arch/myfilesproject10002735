@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerprocess",
+        "uuid": 1156905,
+        "checksum": "puimub"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
